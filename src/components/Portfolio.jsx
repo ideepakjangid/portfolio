@@ -10,33 +10,39 @@ const Portfolio = () => {
   const portfolios = [
     {
       id: 1,
-      src: ishop,
-      link:"#"
+      src: ContactVault,
+      link:"https://contactvault.vercel.app/",
+      code:"https://github.com/ideepakjangid/contactvault"
     },
     {
       id: 2,
-      src: ContactVault,
-      link:"https://contactvault.vercel.app/"
+      src: ishop,
+      link:"#",
+      code:"https://github.com/ideepakjangid/iShop-Frontend"
     },
     {
       id: 3,
       src: quizango,
-      link:"https://quizango.vercel.app/"
+      link:"https://quizango.vercel.app/",
+      code:"https://github.com/ideepakjangid/quizango"
     },
     {
       id: 4,
       src: quizApp,
-      link:"https://quizz-app-smoky.vercel.app/"
+      link:"https://quizz-app-smoky.vercel.app/",
+      code:"https://github.com/ideepakjangid/quizzApp"
     },
     {
       id: 5,
       src: backgroundAttachment,
-      link:"https://wscubetech-one.vercel.app/"
+      link:"https://wscubetech-one.vercel.app/",
+      code:"https://github.com/ideepakjangid/wscubetech"
     },
     {
       id: 6,
       src: easeShop,
-      link:"https://easeshopp.vercel.app/"
+      link:"https://easeshopp.vercel.app/",
+      code:"https://github.com/ideepakjangid/easeshopp-react"
     },
   ];
 
