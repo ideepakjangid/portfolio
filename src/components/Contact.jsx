@@ -31,7 +31,7 @@ const Contact = () => {
       className="w-full min-h-screen bg-gradient-to-b from-black to-gray-800 p-4 text-white"
     >
       <div className="flex flex-col justify-center max-w-screen-lg mx-auto h-full">
-        <div className="pb-8 pt-32 sm:pt-24">
+        <div className="pb-8 pt-72 sm:pt-60">
           <p className="text-4xl font-bold inline border-b-4 border-gray-500">
             Contact
           </p>
