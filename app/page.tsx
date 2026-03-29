@@ -10,14 +10,17 @@ import Footer from "@/components/Footer";
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col bg-background text-text-main font-dm-sans">
-      <Navbar />
+      {/* <Navbar />
       <Hero />
       <About />
       <Skills />
       <Experience />
       <Projects />
       <Contact />
-      <Footer />
+      <Footer /> */}
+      <div>
+        Test
+      </div>
     </main>
   );
 }
